@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  webview1
+//  webview2
 //
 //  Created by Michael Tran on 10/11/2015.
 //  Copyright © 2015 intcloud. All rights reserved.
